@@ -39,7 +39,7 @@ When you import a Gun, each gun is assigned damage values, reload values etc, De
 Exceptions to normal weapon performance would be the following
 
 * **Light Machine Gun** (LMG) This is purchasable through a Sniper slot and the performance in terms of damage would copy an Assault Rifle but it would pertain a higher magazine size.&#x20;
-* **Marksmen Rifles** This is purchasable through a Sniper slot and the performance would be the same as an imported Sniper meaning that it would be bolt action and would not be a Semi-Automatic weapon.
+* **Marksman Rifles** This is purchasable through a Sniper slot and the performance would be the same as an imported Sniper meaning that it would be bolt action and would not be a Semi-Automatic weapon.
 
 ## Gun Purchase Locations & Prices.
 
